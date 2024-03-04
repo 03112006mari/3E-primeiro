@@ -9,3 +9,12 @@ const textos = document.querySelectorAll(“.aba-conteudo”);
  textos[i].classList.add(“ativo”);
   textos[j].classList.remove(“ativo”);                                
 }
+const contadores = document.querySelectorAll(“.contador”);
+const contadores = document.querySelectorAll(“.contador”);
+contadores[0]
+contadores[0].textContent = “Contagem regressiva”;
+const contadores = document.querySelectorAll(“.contador”);
+const tempoObjetivo1 = new Date(“2024-10-05”);
+const contadores = document.querySelectorAll(“.contador”);
+const tempoObjetivo1 = new Date(“2024-10-05”);
+contadores[0].textContent = tempoObjetivo1;
