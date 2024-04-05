@@ -52,3 +52,6 @@ return dias + “ dias “ + horas + “ horas “ + minutos + “
 minutos “ + segundos + “ segundos”;
 } else {
 return “Prazo Finalizado”;
+}
+let dias = Math.floor(horas / 24);
+}
