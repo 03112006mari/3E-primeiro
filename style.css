@@ -84,4 +84,7 @@ text-align: center;
 .aba-conteudo-titulo-secundario{ text-align: center;
 color: var(--verde); text-transform: uppercase;
 }
-
+.contador-digito{ padding: 0 16px;
+text-align: center;
+min-width: 100px;
+}
